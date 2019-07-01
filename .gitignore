@@ -1,9 +1,9 @@
-Content/StarterContent/
+Content/StarterContent/Textures
+Content/StarterContent/HDRI
 Intermediate/
 Binaries/
 Build/
 Saved/
 */DerivedDataCache
 .vs/BuildingEscape/v15/Browse.VC.db
-*.suo
 *.suo
